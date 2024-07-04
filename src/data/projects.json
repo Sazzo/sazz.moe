@@ -4,20 +4,41 @@
     "slug": "onucolegial",
     "shortDescription": "United Nations simulation for Colégio Antônio Vieira students.",
     "description": [
-      "One of Brazil's largest United Nations simulations, it is an annual event with more than 200 participants and is organized by the students (and former students) of Colégio Antônio Vieira.",
-      "In 2023, I became director of the logistics team, which I was part in 2022. I was responsible for managing the team and led the first in-house software development initiative, which resulted in our own event credential system and a foundation for future projects.",
-      "Today, in 2024, I'm the developer and member of the communications/marketing team of the Intercolegial, the event's sister project, which is a simulation for high school students from all over the state of Bahia, Brazil."
+      "ONU Colegial is a annual United Nations simulation project, organized by the students of the \"Colégio Antônio Vieira\", with more than 200 participants.",
+      "In 2023, I became director of the logistics team, which I was part in 2022. I was responsible for managing the team and developed our own event credential system.",
+      "Currently, I'm responsible for all digital infrastructure and software design and development for the event."
     ],
     "banner": "banners/onucolegial.png",
     "cover": "covers/onucolegial.png",
     "links": [
       {
         "name": "Website",
-        "url": "https://onucolegial.com"
+        "url": "https://onucolegial.com.br"
       },
       {
         "name": "Instagram",
         "url": "https://instagram.com/onucolegial"
+      }
+    ]
+  },
+  {
+    "name": "ONU Intercolegial",
+    "slug": "onuintercolegial",
+    "shortDescription": "Brazilian nationwide United Nations simulation project.",
+    "description": [
+      "ONU Intercolegial is a Brazilain nationwide United Nations simulation project organized by students from \"Rede Jesuíta de Educação\", bringing together more than 200 students from more than 10 schools.",
+      "I was primarily responsible for the digital infrastructure and the software design and development for the event. I worked on projects such as the main event website, a custom system for form creation and management, API development, and the credential system."
+    ],
+    "banner": "banners/onuintercolegial.png",
+    "cover": "covers/onuintercolegial.png",
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://onuintercolegial.com.br"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/onuintercolegial"
       }
     ]
   },
